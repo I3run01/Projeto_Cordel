@@ -59,6 +59,7 @@ main p {
 }
 
 #img {
+    background-color: black;
     position: relative;
     box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.192);
     margin: 0px;
@@ -72,6 +73,7 @@ main p {
 }
 
 #img2 {
+    background-color: black;
     position: relative;
     box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.192);
     margin: 0px;
